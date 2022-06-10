@@ -13,6 +13,12 @@ I develop complex web applications.
 | [ngx&#8209;navigation&#8209;trigger](https://github.com/TheJLifeX/ngx-navigation-trigger) | Angular library.<br>Determine the trigger of the current page (either an imperative, backward or forward navigation). | 19.12.2021 | [![NPM](https://img.shields.io/npm/v/ngx-navigation-trigger?label=NPM&color=blue)](https://www.npmjs.com/package/ngx-navigation-trigger "View this project on NPM.")<br>[![NPM downloads](https://img.shields.io/npm/dt/ngx-navigation-trigger?label=NPM%20downloads)](https://www.npmjs.com/package/ngx-navigation-trigger "View this project on NPM.") | Angular 12+, TypeScript, JavaScript, HTML5, CSS, SCSS. |
 | [ngx&#8209;back&#8209;forward&#8209;cache](https://github.com/TheJLifeX/ngx-back-forward-cache) | Angular library.<br>Back/forward cache in Angular.<br>Simulate the [browser back-forward cache feature](https://web.dev/bfcache/) in angular using a custom [Angular RouteReuseStrategy](https://angular.io/api/router/RouteReuseStrategy). | 20.12.2021 | [![NPM](https://img.shields.io/npm/v/ngx-back-forward-cache?label=NPM&color=blue)](https://www.npmjs.com/package/ngx-back-forward-cache "View this project on NPM.")<br>[![NPM downloads](https://img.shields.io/npm/dt/ngx-back-forward-cache?label=NPM%20downloads)](https://www.npmjs.com/package/ngx-back-forward-cache "View this project on NPM.") | Angular 12+, TypeScript, JavaScript, HTML5, CSS, SCSS. |
 
+## My open-source world
+
+| Profile | Description | Start (first project) |
+|---|---|---|
+| [https://github.com/TheJLifeX](https://github.com/TheJLifeX) | I share my humble experience here by developing open-source projects. | 30.10.2018 |
+| [https://stackblitz.com/@TheJLifeX](https://stackblitz.com/@TheJLifeX) | I share my humble experience here by developing small projects and code snippets. | 2019 |
 
 ## My stats on GitHub
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheJLifeX&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
