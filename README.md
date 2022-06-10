@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
-<!--
-**TheJLifeX/TheJLifeX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an Angular Expert - Front-end Developer - Freelancer.
 
-Here are some ideas to get you started:
+I develop complex web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## My Angular open-source projects
+| Project                                                                                         | Description                                                                                                                                                                                                                                 | Project start | Stats                                                                                                                                                                                                                                                                                                                                                                                        | Tech                                                   |
+|-------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
+| [ngx-hide-on-scroll](https://github.com/TheJLifeX/ngx-hide-on-scroll)                           | Angular library.<br>Hide an element on scroll down or up in Angular.                                                                                                                                                                        | 13.03.2021    | [![NPM](https://img.shields.io/npm/v/ngx-hide-on-scroll?label=NPM&color=blue)](https://www.npmjs.com/package/ngx-hide-on-scroll "View this project on NPM.")<br>[![NPM downloads](https://img.shields.io/npm/dt/ngx-hide-on-scroll?label=NPM%20downloads)](https://www.npmjs.com/package/ngx-hide-on-scroll "View this project on NPM.")                                                     | Angular 6+, TypeScript, JavaScript, HTML5, CSS, SCSS.  |
+| [ngx-scroll-position-restoration](https://github.com/TheJLifeX/ngx-scroll-position-restoration) | Angular library.<br>Scroll position restoration in Angular.                                                                                                                                                                                 | 21.12.2021    | [![NPM](https://img.shields.io/npm/v/ngx-scroll-position-restoration?label=NPM&color=blue)](https://www.npmjs.com/package/ngx-scroll-position-restoration "View this project on NPM.")<br>[![NPM downloads](https://img.shields.io/npm/dt/ngx-scroll-position-restoration?label=NPM%20downloads)](https://www.npmjs.com/package/ngx-scroll-position-restoration "View this project on NPM.") | Angular 6+, TypeScript, JavaScript, HTML5, CSS, SCSS.  |
+| [ngx-navigation-trigger](https://github.com/TheJLifeX/ngx-navigation-trigger)                   | Angular library.<br>Determine the trigger of the current page (either an imperative, backward or forward navigation).                                                                                                                       | 19.12.2021    | [![NPM](https://img.shields.io/npm/v/ngx-navigation-trigger?label=NPM&color=blue)](https://www.npmjs.com/package/ngx-navigation-trigger "View this project on NPM.")<br>[![NPM downloads](https://img.shields.io/npm/dt/ngx-navigation-trigger?label=NPM%20downloads)](https://www.npmjs.com/package/ngx-navigation-trigger "View this project on NPM.")                                     | Angular 12+, TypeScript, JavaScript, HTML5, CSS, SCSS. |
+| [ngx-back-forward-cache](https://github.com/TheJLifeX/ngx-back-forward-cache)                   | Angular library.<br>Back/forward cache in Angular.<br>Simulate the [browser back-forward cache feature](https://web.dev/bfcache/) in angular using a custom [Angular RouteReuseStrategy](https://angular.io/api/router/RouteReuseStrategy). | 20.12.2021    | [![NPM](https://img.shields.io/npm/v/ngx-back-forward-cache?label=NPM&color=blue)](https://www.npmjs.com/package/ngx-back-forward-cache "View this project on NPM.")<br>[![NPM downloads](https://img.shields.io/npm/dt/ngx-back-forward-cache?label=NPM%20downloads)](https://www.npmjs.com/package/ngx-back-forward-cache "View this project on NPM.")                                     | Angular 12+, TypeScript, JavaScript, HTML5, CSS, SCSS. |
+
+
+## My stats on GitHub
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheJLifeX&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheJLifeX&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+## How to reach me
+A project to develop ? Contact me. 
+- E-Mail: contact@ulrichtiofack.com
+- Website: [ulrichtiofack.com](https://ulrichtiofack.com)
